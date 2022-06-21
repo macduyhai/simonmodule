@@ -6,3 +6,5 @@ func Reverse(input string) (result string) {
 	}
 	return result
 }
+
+//
