@@ -1,0 +1,2 @@
+# simonmodule
+Test module Golang
